@@ -1,5 +1,3 @@
-Here's an updated README with emojis and a project goal:
-
 # 🐍 Snake vs Background Image Classifier
 
 ## 🎯 Project Goal
