@@ -1,5 +1,5 @@
 # 🐍 Snake vs Background Image Classifier
-
+NOTE: This repository is one of the challenges made for the event "ForkThis" organized by the chapter Computer Society of India(CSI), VIT vellore in the year 2024.
 ## 🎯 Project Goal
 This project was initiated to support wildlife conservation efforts in snake-rich ecosystems. By accurately distinguishing between snake images and background images, we aim to assist researchers and field workers in cataloging snake populations and understanding their habitats. This tool could potentially be integrated into mobile applications for quick snake identification, enhancing both research capabilities and safety measures for people working in or visiting snake-inhabited areas.
 
